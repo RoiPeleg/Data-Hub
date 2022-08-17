@@ -1,6 +1,6 @@
 layout: page
 title: "NLP"
-permalink: /https://roipeleg.github.io/testere/NLP/
+permalink: /testere/NLP/
 
 
 Here will be NLP conent
