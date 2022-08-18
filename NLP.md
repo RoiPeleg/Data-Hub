@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NLP"
-permalink: /testere/
+permalink: /testere/NLP
 ---
 
 Here will be NLP conent
