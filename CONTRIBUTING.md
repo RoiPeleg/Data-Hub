@@ -43,7 +43,10 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 ### Add content to the site
 
-* Same as a pull request but in the following format Topic-type-username (ex. nlp-cr-omerrugi1 NLP topic course recomnndation). cr = course, bl = blog, bo = book.
+* Same as a pull request but in the following format Topic-type-username (ex. nlp-cr-omerrugi1 NLP topic course recomnndation).
+  * cr = course
+  * bl = blog
+  * bo = book.
 * Only content the you used/vouche for.
 * Our goal is to create a source for more efficently solve data problems. 
 For example added a section of courses and a link to a course:
