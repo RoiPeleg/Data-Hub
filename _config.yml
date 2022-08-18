@@ -33,7 +33,7 @@ plugins:
 header_pages:
   - Classic.md
   - RL.md
-  - Image.md
+  - Vision.md
   - NLP.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
