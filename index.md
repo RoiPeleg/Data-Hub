@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data science source
+title: Data Hub
 ---
 [//]: # (Do not edit)
 
