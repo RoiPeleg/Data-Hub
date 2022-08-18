@@ -1,5 +1,5 @@
 
-# Data Hub
+# Data Hub - The Open Sorce Data Pool
 <a href="https://github.com/RoiPeleg/Data-Hub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=RoiPeleg/Data-Hub" />
 </a>
@@ -21,11 +21,12 @@ Contribution - how to add new info
 * [License](#license)
 <a name = "about"></a>
 ## About:
-The idea behind Data Hub is to create a data pool in the field of data (from analysis to data scients) of qulity resources, that we found useful and helpful while building projects, learning new skills, or just enjoyed reading.
+The idea behind Data Hub is to create a data pool in the field of data (from analysis to data scients) of qulity resources, that the comunity found useful and helpful while building projects, learning new skills, or just enjoyed reading.
 
 Meaning, we don't keep every resorce we find, only the ones that we used and found helpful, informative, and clear enough for us to reuse in the future.
 
-We give emphasis on personal expires so others would know they can relay on the resources.
+We give emphasis on personal expires so others would know they can relay on the resources, and to have many contributers sharing from thier on experience.
+
 
 <a name = "how2hub"></a>
 ## How to use the Hub:
