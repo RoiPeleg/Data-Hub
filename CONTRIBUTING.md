@@ -46,7 +46,11 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * Same as a pull request but in the following format Topic-type-username (ex. nlp-cr-omerrugi1 NLP topic course recomnndation). cr = course, bl = blog, bo = book.
 * Only content the you used/vouche for.
 * Our goal is to create a source for more efficently solve data problems. 
-
+For example added a section of courses and a link to a course:
+```
+# Courses:
+* [Stanford CS224N: NLP with Deep Learning Winter 2021](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&ab_channel=StanfordOnline)
+```
 ### Creating Pull Requests
 
 #### How Do I Submit A (Good) Pull Request?
