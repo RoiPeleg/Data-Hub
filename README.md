@@ -3,6 +3,7 @@
 <a href="https://github.com/RoiPeleg/Data-Hub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=RoiPeleg/Data-Hub" />
 </a>
+
 Made with [contrib.rocks](https://contrib.rocks).
 
 [Data Hub Website](https://roipeleg.github.io/Data-Hub/)
