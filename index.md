@@ -4,14 +4,14 @@ title: Data Hub
 ---
 [//]: # (Do not edit)
 
-## About:
+### About:
 The idea behind Data Hub is to create a data pool in the field of data (from analysis to data scients) of qulity resources, that we found useful and helpful while building projects, learning new skills, or just enjoyed reading.
 
 Meaning, we don't keep every resorce we find, only the ones that we used and found helpful, informative, and clear enough for us to reuse in the future.
 
 We give emphasis on personal expires so others would know they can relay on the resources.
 
-## How to use the Hub:
+### How to use the Hub:
 We have divided the Data Hub into mainstream data categories and general data-related resources.
 
 The main categories: Reinforcement Learning, Vision, NLP, and General data-related resources.
