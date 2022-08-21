@@ -11,5 +11,6 @@ permalink: /testere/Classic
 ### Deep learning
 #### Posts
 * [Residual Blocks](https://towardsdatascience.com/residual-blocks-in-deep-learning-11d95ca12b00)
+
 #### Course
 * [Deep Lizard DL fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
