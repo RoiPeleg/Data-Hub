@@ -4,8 +4,8 @@ title: "Image"
 permalink: /Data-Hub/Image
 ---
 
-# GANs
-## Courses
+## GANs
+#### Courses
 [Great base for GANs](https://developers.google.com/machine-learning/gan)
-## Papers
+#### Papers
 [Adversarial Attacks intro](http://gradientscience.org/adv/)
