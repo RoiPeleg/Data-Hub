@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Image"
-permalink: /Data-Hub/Image
+title: "Vision"
+permalink: /Data-Hub/Vision
 ---
 
 ## GANs
