@@ -1,7 +1,11 @@
 ---
 layout: page
 title: "Image"
-permalink: /testere/Image
+permalink: /Data-Hub/Image
 ---
 
-Here will be NLP conent
+#GANs
+## Courses
+[Great base for GANs](https://developers.google.com/machine-learning/gan)
+## Papers
+[Adversarial Attacks intro](http://gradientscience.org/adv/)
