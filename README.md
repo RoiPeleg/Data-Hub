@@ -45,7 +45,7 @@ So inorder to find the right resourse, just jump into the relevent category and 
 
 As mentioned above, this is an open-source project, meaning you get to be part of it!
 In the link below you'll see the guidelines on how to donate a resource to our pool :)
-Keep in mind, that the whole idea is not to throw whatever we can find on the internet, but rather give qulity resources that you tried for yourself and found useful.
+Keep in mind, that the whole idea is not to throw whatever we can find on the internet, but rather gather quality resources that you tried for yourself and found useful.
 
 So click on the link, share your resources, and help others in their journey.
 
