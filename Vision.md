@@ -4,7 +4,7 @@ title: "Image"
 permalink: /Data-Hub/Image
 ---
 
-#GANs
+# GANs
 ## Courses
 [Great base for GANs](https://developers.google.com/machine-learning/gan)
 ## Papers
