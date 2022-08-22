@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Classic"
-permalink: /testere/Classic
+permalink: /Data-Hub/Classic
 ---
 ## ML
 #### Posts
