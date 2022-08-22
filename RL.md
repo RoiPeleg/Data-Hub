@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "RL"
-permalink: /testere/RL
+permalink: /Data-Hub/RL
 ---
 
 ### Posts
