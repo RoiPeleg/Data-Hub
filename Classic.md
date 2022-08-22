@@ -4,6 +4,7 @@ title: "Classic"
 permalink: /testere/Classic
 ---
 ## ML
+#### Posts
 * [Curse of dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 
 ## Pytorch
