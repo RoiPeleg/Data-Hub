@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NLP"
-permalink: /testere/NLP
+permalink: /Data-Hub/NLP
 ---
 
 ## Courses:
