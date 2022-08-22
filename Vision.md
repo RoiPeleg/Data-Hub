@@ -7,6 +7,7 @@ permalink: /Data-Hub/Vision
 ## GANs
 #### Courses
 * [Great base for GANs](https://developers.google.com/machine-learning/gan)
+
 #### Papers
 * [Adversarial Attacks intro](http://gradientscience.org/adv/)
 
