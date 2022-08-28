@@ -24,6 +24,7 @@ permalink: /Data-Hub/Classic
 
 
 ## Tensorflow
+#### Course
 * [Introduction to TensorFlow | Google](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
 
 
