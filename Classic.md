@@ -12,7 +12,7 @@ permalink: /Data-Hub/Classic
 
 #### Tutorials & Guides:
 * [Residual Blocks](https://towardsdatascience.com/residual-blocks-in-deep-learning-11d95ca12b00)
-* [CS 230 ― Deep Learning ](https://stanford.edu/~shervine/teaching/cs-230/)
+* [CS 230 ― Deep Learning Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/)
 #### Articels & Papers:
 
 #### Books:
