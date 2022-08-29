@@ -8,11 +8,11 @@ permalink: /Data-Hub/Classic
 
 #### Courses:
 * [Deep Lizard DL fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
-* [MIT Introduction to Deep Learning](https://youtu.be/7sB052Pz0sQ)
+* [MIT Introduction to Deep Learning Cheatsheets](https://youtu.be/7sB052Pz0sQ)
 
 #### Tutorials & Guides:
 * [Residual Blocks](https://towardsdatascience.com/residual-blocks-in-deep-learning-11d95ca12b00)
-
+* [CS 230 ― Deep Learning ](https://stanford.edu/~shervine/teaching/cs-230/)
 #### Articels & Papers:
 
 #### Books:
@@ -21,8 +21,11 @@ permalink: /Data-Hub/Classic
 
 #### Courses:
 * [Machine Learning Crash Course with TensorFlow by Google](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
+
 #### Tutorials & Guides
 * [Curse of dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
+* [CS 221 ― Artificial Intelligence Cheatsheets](https://stanford.edu/~shervine/teaching/cs-221/)
+* [CS 229 ― Machine Learning Cheatsheets](https://stanford.edu/~shervine/teaching/cs-229/)
 
 #### Articels & Papers:
 
