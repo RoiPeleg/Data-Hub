@@ -9,7 +9,7 @@ permalink: /Data-Hub/Classic
 #### Courses:
 * [Deep Lizard DL fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [MIT Introduction to Deep Learning Cheatsheets](https://youtu.be/7sB052Pz0sQ)
-
+* [Neural Networks from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&ab_channel=sentdex)
 #### Tutorials & Guides:
 * [Residual Blocks](https://towardsdatascience.com/residual-blocks-in-deep-learning-11d95ca12b00)
 * [CS 230 ― Deep Learning Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/)
