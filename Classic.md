@@ -20,7 +20,7 @@ permalink: /Data-Hub/Classic
 ## ML
 
 #### Courses:
-
+* [Introduction to ML by Google](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
 #### Tutorials & Guides
 * [Curse of dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 
@@ -42,10 +42,8 @@ permalink: /Data-Hub/Classic
 ## Tensorflow
 
 #### Courses
-* [Introduction to TensorFlow | Google](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
 
 #### Tutorials & Guides
-* [Intuitive explanation on how pytorch works](https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95)
 
 #### Articels & Papers:
 
