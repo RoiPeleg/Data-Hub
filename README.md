@@ -36,9 +36,9 @@ We have divided the Data Hub into mainstream data categories and general data-re
 
 The main categories: Reinforcement Learning, Vision, NLP, and General data-related resources.
 
-In each one of those categories we have sub categories of the resurses: Courses, Tutorials & Guides, Articels & Papers, Books, Influancerce To Follow.
+In each one of those categories we have sub categories of the resurses: Courses, Tutorials & Guides, Articels & Papers, Books, Influencers To Follow.
 
-So inorder to find the right resourse, just jump into the relevent category and in the sub-caregories use what is best suited to you.
+So in order to find the right resourse, just jump into the relevent category and in the sub-caregories use what is best suited to you.
 
 
 <a name = "contribution"></a>
