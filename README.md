@@ -1,3 +1,4 @@
+![DataHubLogo](https://user-images.githubusercontent.com/57361655/187187788-803ad800-15ba-4937-a838-3f1bafc77dcd.png)
 
 # Data Hub - The Open Sorce Data Pool
 <a href="https://github.com/RoiPeleg/Data-Hub/graphs/contributors">
