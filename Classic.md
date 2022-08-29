@@ -20,7 +20,7 @@ permalink: /Data-Hub/Classic
 ## ML
 
 #### Courses:
-* [Introduction to ML by Google](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
+* [Machine Learning Crash Course with TensorFlow by Google](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
 #### Tutorials & Guides
 * [Curse of dimensionality](https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e)
 
