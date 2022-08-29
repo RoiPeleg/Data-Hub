@@ -50,3 +50,7 @@ permalink: /Data-Hub/Classic
 #### Articels & Papers:
 
 #### Books:
+
+## Interview preparation
+#### Articels & Papers:
+* [Data science generalist](https://towardsdatascience.com/dont-be-a-data-science-generalist-yet-8675fceb2f1e)
